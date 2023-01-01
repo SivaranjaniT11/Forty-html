@@ -1,0 +1,21 @@
+
+.master-head{
+  background-color:rgba(170, 129, 207, 0.95);
+  padding: 5% 5%;
+}
+.header{
+  background-image: url("image/pic07.png");
+  background-position: center;
+}
+.but{
+  border: 2px solid white;
+  background-color: transparent;
+  padding: 10px 20px;
+  color: white;
+}
+
+@media (max-width: 576px) {
+  .master-head p{
+ font-size: 10px;
+  }
+}
